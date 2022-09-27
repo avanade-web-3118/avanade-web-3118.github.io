@@ -32,6 +32,12 @@ body {
                 }
             }
         }
+        
+        &.footer-link-a {
+            > nav > ul > li > a {
+                color: #fff;
+            }
+        }
     }
 }
 
