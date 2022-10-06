@@ -17,5 +17,8 @@
     "url": "https://github.com/SandraLima03/curso-fiap-web/issues"
   },
   "homepage": "https://github.com/SandraLima03/curso-fiap-web#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
 }
